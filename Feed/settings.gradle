@@ -1,0 +1,1 @@
+include ':app', ':commons-beanutils-1.8.0', ':commons-collections-3.2.1', ':commons-lang-2.5', ':commons-logging-1.1.1-api', ':ezmorph-1.0.6', ':json-lib-2.4-jdk15'
